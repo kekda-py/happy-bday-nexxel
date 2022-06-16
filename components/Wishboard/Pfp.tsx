@@ -1,8 +1,8 @@
 const Pfp: React.FC = () => {
   return (
     <img
-      src="https://cdn.discordapp.com/avatars/743292574139154452/62d6d74149fe7f31946288f1f1e5a462.png?size=1024"
-      alt="rachey"
+      src="https://cdn.discordapp.com/avatars/758578599715405824/3421cc050bebc4689a905fab5d50736c.png?size=1024"
+      alt="nexxel"
       className="absolute w-32 h-32 top-6"
     />
   );
