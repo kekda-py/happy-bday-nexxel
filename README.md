@@ -1,4 +1,4 @@
-A website to wish the absolutely wonderful streamer [Rachey](https://www.twitch.tv/racheydachey_) a happy 21st birthday.
+A website to wish the absolutely wonderful developer [Nexxel](https://nexxel.dev/) a happy idk birthday.
 
 Stack: Next.js + TypeScript + TailwindCSS
 
